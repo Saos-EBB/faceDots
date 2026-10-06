@@ -55,3 +55,9 @@ The model is only fetched on the first `photoToFace` call.
 `createFaceDots`: `mode`, `interactive`, `fit` (share of the canvas, 0.9),
 `columns` (grid density, 100), `ascii` (characters dark → bright),
 `pushRadius` (80 px).
+
+## License
+
+[MIT](LICENSE), © Kevin Schaberl. The MediaPipe library and the selfie
+segmentation model are not part of this package; they are © Google LLC under
+the Apache License 2.0.
